@@ -1,0 +1,19 @@
+{
+  "name": "hermex-iphone-setup",
+  "description": "Connect the Hermex iPhone app to a local Hermes dashboard.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Connect the Hermex iPhone app to a local Hermes dashboard.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "hermex-iphone-setup",
+      "source": "./plugins/hermex-iphone-setup",
+      "description": "Connect the Hermex iPhone app to a local Hermes dashboard."
+    }
+  ]
+}
